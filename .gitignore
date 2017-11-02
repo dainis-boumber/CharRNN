@@ -4,8 +4,6 @@
 
 *.pdf
 
-*.txt
-
 *.key
 
 experiments/.idea/*
